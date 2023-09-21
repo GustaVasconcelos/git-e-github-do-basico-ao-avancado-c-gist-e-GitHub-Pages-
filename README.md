@@ -9,3 +9,10 @@ __teste__
 * html
 * css
 * js
+
+
+### Funcionalidades e Desenvolver:
+
+1. Área de membros
+2. Integração com outros pagamentos
+3. Sistema de bônus primeira compra
