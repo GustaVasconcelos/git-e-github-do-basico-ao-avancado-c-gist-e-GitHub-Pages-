@@ -6,6 +6,6 @@ a a *a*  a a aa **teste**
 
 __teste__
 
-*html
-*css
-*js
+* html
+* css
+* js
