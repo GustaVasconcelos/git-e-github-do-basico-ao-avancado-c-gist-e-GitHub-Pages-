@@ -18,7 +18,11 @@ __teste__
 3. Sistema de bônus primeira compra
 
 
-### Imagewm local
+### Imagem local
 
 
 ![Luke Black Clover](img/teste.jpg)
+
+
+## Links 
+[Linkedin](https://www.linkedin.com/in/gustavovasconcelosp/)
