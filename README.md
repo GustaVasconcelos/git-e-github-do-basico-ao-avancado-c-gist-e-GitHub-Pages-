@@ -26,3 +26,19 @@ __teste__
 
 ## Links 
 [Linkedin](https://www.linkedin.com/in/gustavovasconcelosp/)
+
+```
+    Css
+    h1 {
+    color: red;
+}
+
+.p-home {
+    font-size: 20px;
+}
+
+table {
+    background-color:red;
+}
+
+```
