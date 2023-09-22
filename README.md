@@ -29,7 +29,7 @@ __teste__
 
 ```
     Css
-    h1 {
+h1 {
     color: red;
 }
 
@@ -42,3 +42,7 @@ table {
 }
 
 ```
+
+-- [ x ] Área de membros
+-- [ ] Integração com outros pagamentos
+-- [ x ] Sistema de bônus primeira compra
