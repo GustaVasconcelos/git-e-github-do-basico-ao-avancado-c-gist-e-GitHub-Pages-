@@ -43,6 +43,6 @@ table {
 
 ```
 
--- [ x ] Área de membros
--- [ ] Integração com outros pagamentos
--- [ x ] Sistema de bônus primeira compra
+- [x] Área de membros
+- [] Integração com outros pagamentos
+- [x] Sistema de bônus primeira compra
